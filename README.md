@@ -26,7 +26,7 @@ Edite **appsettings.json** e ajuste a connection string:
 
 ## 🗃️ Criar o banco e as tabelas (Migrations)
 
-### Opção A — **Package Manager Console** (Visual Studio)
+### **Package Manager Console** (Visual Studio)
 No **Visual Studio**: `Tools > NuGet Package Manager > Package Manager Console` e rode:
 
 ```powershell
