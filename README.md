@@ -4,7 +4,7 @@ API REST para gerenciamento de tarefas com CRUD completo (criar, listar, detalha
 
 
 ## ✅ Requisitos
-- .NET SDK 8+
+- .NET 8+
 - SQL Server (local ou remoto)
 
 ## ⚙️ Configuração (appsettings.json)
